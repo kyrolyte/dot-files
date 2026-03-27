@@ -3,6 +3,7 @@ syntax on
 
 " Remove word wrap
 set nowrap
+set visualbell
 
 " Enable filetype detection and plugins
 filetype plugin indent on
